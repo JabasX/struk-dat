@@ -1,4 +1,4 @@
-# Struktur Data  
+# Struktur Data 
 
 >Merupakan cara untuk mengatur, menyimpan, dan mengorganisir data dalam komputer agar dapat diakses, diolah, dan dimanipulasi secara efisien.
 >>Terdiri dari:
